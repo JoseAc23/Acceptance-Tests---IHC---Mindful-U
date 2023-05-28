@@ -1,0 +1,4 @@
+Escenario: El especialista en salud mental desea ponerse en contacto con estudiantes universitarios peruanos con trastornos emocionales
+Given que estoy en la página de inicio de la aplicación como especialista en salud mental,
+When elijo la opción de conectar con estudiantes universitarios peruanos con trastornos emocionales,
+Then la aplicación me muestra una lista de estudiantes universitarios peruanos con trastornos emocionales que están buscando tratamiento y apoyo emocional, y me permite elegir a los estudiantes que deseo conectar para comenzar una sesión de tratamiento a través de la aplicación

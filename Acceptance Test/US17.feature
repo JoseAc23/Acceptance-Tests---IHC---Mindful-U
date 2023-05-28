@@ -1,0 +1,4 @@
+Escenario: El especialista en salud mental desea enviar al paciente notas, consejos e informes de su progreso
+Given que estoy en la página de inicio de la aplicación como especialista en salud mental,
+When elijo el estudiante con el que deseo conectarme para brindar tratamiento y apoyo emocional,
+Then la aplicación me permite enviar notas de progreso y actualizaciones del tratamiento a través de la aplicación, para que el estudiante pueda estar informado de su progreso y cualquier cambio en su tratamiento. La aplicación también permite que el estudiante me envíe mensajes para hacer preguntas o solicitar información adicional.
